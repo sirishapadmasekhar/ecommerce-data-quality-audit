@@ -1,4 +1,4 @@
-# Data Quality Check Project
+# ecommerce-data-quality-audit
 
 Welcome to the **Data Quality Report for Company X**, where we delve into the complexities of e-commerce data to 
 
@@ -118,17 +118,6 @@ Primary key: (conv_id, session_id).
  - Visualizations and Charts
  - Recommendations for Data Quality Improvement
  - Readme.md summarizing the project and its deliverables
-
-## Conclusion 
-
-
-This analysis highlights the importance of identifying and addressing potential data quality challenges within the dataset.
-
-The findings emphasize the need for ongoing monitoring and improvement of data quality processes. 
-
-In conclusion, taking the suggested actions is crucial to strengthen the dataset, 
-
-making sure that data-driven insights and decisions rely on accurate and high-quality information. 
 
 
 
